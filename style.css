@@ -1173,6 +1173,10 @@ body {
   box-shadow: 0 0 7px 1px #ff3e788e; }
 
 @media (min-width: 768px) {
+  .brands__button-show {
+    display: block; } }
+
+@media (min-width: 768px) {
   .slider-repairs__devices {
     height: 160px;
     overflow: hidden;
@@ -1231,6 +1235,10 @@ body {
 
 .repairs__button-show {
   margin-bottom: 32px; }
+
+@media (min-width: 768px) {
+  .repairs__button-show {
+    display: block; } }
 
 .prices {
   padding-bottom: 40px; }
