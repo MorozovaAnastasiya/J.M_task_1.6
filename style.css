@@ -1082,7 +1082,8 @@ body {
     grid-template-columns: repeat(2, 1fr);
     grid-template-rows: 1fr; }
   .article__image {
-    border-radius: 6px; } }
+    border-radius: 6px;
+    padding-right: 24px; } }
 
 @media (min-width: 1366px) {
   .info__header {
@@ -1110,7 +1111,9 @@ body {
   .info__application-icon,
   .info__status-icon {
     padding-top: 10px;
-    padding-left: 1px; } }
+    padding-left: 1px; }
+  .article__image {
+    padding-right: 30px; } }
 
 .brands {
   margin-bottom: 24px; }
