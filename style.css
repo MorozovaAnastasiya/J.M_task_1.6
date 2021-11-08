@@ -576,7 +576,8 @@ body {
   width: 119px;
   height: 32px;
   padding-left: 14px;
-  transition: ease-in-out 0.2s; }
+  transition: ease-in-out 0.2s;
+  cursor: pointer; }
 
 .button::after {
   position: absolute;
